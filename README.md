@@ -4,7 +4,7 @@
 
 |Part1 | Part2 | Part3 | Part4 |
 |:-----------: | :-----------: | :-----------: | :------------: |
-|[项目介绍]() |[模块介绍]() | [项目难点]() |[性能测试]() |
+|[项目介绍](https://github.com/YuyiLin-Oliva/tinyServer/blob/master/README.md) |[模块介绍](https://github.com/YuyiLin-Oliva/tinyServer/blob/master/%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D.md) | [项目难点](https://github.com/YuyiLin-Oliva/tinyServer/blob/master/%E9%A1%B9%E7%9B%AE%E9%9A%BE%E7%82%B9.md) |[性能测试](https://github.com/YuyiLin-Oliva/tinyServer/blob/master/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.md) |
 
 ### Environment
 ```
@@ -41,7 +41,5 @@ cd bin
 
 ### Code Amount
 
-![代码统计](https://github.com/YuyiLin-Oliva/tinyServer/test_results/代码行数统计.png)
-
-
+![代码行数统计](https://github.com/YuyiLin-Oliva/tinyServer/blob/master/test_results/%E4%BB%A3%E7%A0%81%E8%A1%8C%E6%95%B0%E7%BB%9F%E8%AE%A1.png)
 
